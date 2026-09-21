@@ -33,7 +33,7 @@ Node.js는 웹 화면을 빌드할 때만 필요합니다. 터미널에서 문�
 프로젝트를 둘 폴더에서 실행합니다. 이미 프로젝트 폴더가 있다면 복제하지 말고 그 폴더로 이동하세요.
 
 ```bash
-git clone https://github.com/inininax/doc2audio.git
+git clone https://github.com/kyungseok-lee/doc2audio.git
 cd doc2audio
 ```
 
